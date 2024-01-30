@@ -1,5 +1,4 @@
 import fractions
-
 # Data types
 a = {1, 2, 3, 4}  # set
 b = (1, 2, 3, 4)  # tuple
