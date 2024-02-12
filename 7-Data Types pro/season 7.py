@@ -1,1 +1,1 @@
-# i didn't study today
+# I didn't study today, but I studied c++
